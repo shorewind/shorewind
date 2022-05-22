@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 😄 Pronouns: she/her
+- 🔭 I’m currently working on basic games with gui using object-oriented progamming
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on anything!
+- 📫 How to reach me: shorewind907@gmail.com
+
 <!--
 **shorewind/shorewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
