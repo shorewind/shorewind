@@ -7,6 +7,7 @@
 - 📫 How to reach me: shorewind907@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shorewind&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
+Total time spent coding since April 15, 2022 (not including MATLAB):<br>
 [![wakatime](https://wakatime.com/badge/user/ce36b80d-04b3-40b7-954c-f6f28fcd8462.svg)](https://wakatime.com/@ce36b80d-04b3-40b7-954c-f6f28fcd8462)
 
 <!--
