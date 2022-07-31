@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on basic game development, web development, and robotics
-- 🌱 I’m currently learning Python, HTML/CSS/JavaScript, and C++
+- 🔭 I’m currently working on basic scripting, software development, and robotics
+- 🌱 I’m currently learning Python, C, and C++
 
 ![Top Langs](https://github-readme-stats-shorewind.vercel.app/api/top-langs/?username=shorewind&theme=github_dark&layout=compact&langs_count=6) <br>
 Total time spent coding since April 15, 2022:<br>
