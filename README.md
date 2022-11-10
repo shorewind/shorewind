@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a semi-autonomous rover for UAH Space Hardware Club
+- 🔭 I’m currently working on a plant watering system using a raspberry pi 4
 - 🌱 I’m currently learning C++ and embedded programming
 
-![Top Langs](https://github-readme-stats-shorewind.vercel.app/api/top-langs/?username=shorewind&theme=github_dark&layout=compact&langs_count=6) <br>
+[![Top Langs](https://wakatime.com/share/@shorewind/c12c6b21-1e94-40fc-9ba4-30937cbabdea.png)](https://wakatime.com/@shorewind)<br>
 Total time spent coding since April 15, 2022:<br>
-[![wakatime](https://wakatime.com/badge/user/ce36b80d-04b3-40b7-954c-f6f28fcd8462.svg)](https://wakatime.com/@ce36b80d-04b3-40b7-954c-f6f28fcd8462)
+[![wakatime](https://wakatime.com/badge/user/ce36b80d-04b3-40b7-954c-f6f28fcd8462.svg)](https://wakatime.com/@shorewind)
 
 <!--
 **shorewind/shorewind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
