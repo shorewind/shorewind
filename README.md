@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a plant watering system using a raspberry pi 4
-- 🌱 I’m currently learning C++ and embedded programming
+- 🔭 I’m currently working on programming a semi-autonomous mobile robot to do basic tasks
+- 🌱 I’m currently learning C++ and embedded programming <br> <br>
+  _Current Courses:_
+  - Data Structures
+  - Computer Organization
+  - Discrete Structures
+  - Electronic Analysis and Design Lab
+  - Special Topics: Fundamentals of Robotics
 
 [![Top Langs](https://wakatime.com/share/@shorewind/c12c6b21-1e94-40fc-9ba4-30937cbabdea.png)](https://wakatime.com/@shorewind)<br>
 Total time spent coding since April 15, 2022:<br>
