@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-**Languages:** C++, Python, HTML/CSS/JavaScript, MATLAB <br>
-**Operating Systems:** Windows, Linux <br>
+**Languages:** Python, C++, HTML/CSS/JavaScript, MATLAB <br>
+**Operating Systems:** Windows, Linux, MacOS <br>
 **Hardware:** Arduino, Raspberry Pi, Soldering, 3D Printing, CAD, Electrical Schematics <br> <br>
   _Current Courses:_
-  - Introduction to Embedded Computer Systems
+  - Design and Analysis of Algorithms
+  - AI and Game Development
+  - Digital Hardware Design
+  - Probability and Engineering Statistics
 
 [![wakatime](https://wakatime.com/badge/user/ce36b80d-04b3-40b7-954c-f6f28fcd8462.svg)](https://wakatime.com/@shorewind)
 
